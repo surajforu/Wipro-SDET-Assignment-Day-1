@@ -1,0 +1,7 @@
+Hello
+Java
+Python
+c
+Java is easy
+I like Java
+file added successfully
